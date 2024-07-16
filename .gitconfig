@@ -1,2 +1,3 @@
 [alias]
+discard = reset HEAD --hard
 cm
