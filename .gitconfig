@@ -2,3 +2,4 @@
 discard = reset HEAD --hard
 cm = commit -m
 s = status -s
+co = checkout
