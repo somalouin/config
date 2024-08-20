@@ -6,3 +6,4 @@ s = status -s
 co = checkout
 cob = checkout -b
 wc = diff ~HEAD
+list = branch -a
