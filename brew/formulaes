@@ -2,3 +2,4 @@ node
 postgresql
 gcc
 wget
+oven-sh/bun/bun
