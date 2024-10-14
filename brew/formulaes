@@ -3,3 +3,4 @@ postgresql
 gcc
 wget
 oven-sh/bun/bun
+go
