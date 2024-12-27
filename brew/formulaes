@@ -4,3 +4,4 @@ gcc
 wget
 oven-sh/bun/bun
 go
+fastfetch
