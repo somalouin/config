@@ -1,9 +1,0 @@
-[alias]
-discard = reset HEAD --hard
-cam = commit -a -m
-cm = commit -m
-s = status -s
-co = checkout
-cob = checkout -b
-wc = diff ~HEAD
-list = branch -a
