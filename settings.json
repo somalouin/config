@@ -1,6 +1,6 @@
 {
   "assistant": {
-    "dock": "left",
+    "dock": "right",
     "default_model": {
       "provider": "zed.dev",
       "model": "claude-3-5-sonnet-latest"
@@ -17,10 +17,11 @@
   },
   "theme": {
     "mode": "system",
-    "light": "Gruvbox Dark Hard",
-    "dark": "Gruvbox Dark Hard"
+    "light": "Sandcastle",
+    "dark": "Sandcastle"
   },
   "project_panel": {
-    "indent_size": 17
+    "dock": "left",
+    "indent_size": 12
   }
 }
