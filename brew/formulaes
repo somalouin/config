@@ -1,8 +1,6 @@
 node
 postgresql
 gcc
-wget
-oven-sh/bun/bun
 go
 fastfetch
 oh-my-posh
