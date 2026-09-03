@@ -4,6 +4,7 @@
         "button": false,
     },
     "terminal": {
+        "font_family": ".ZedMono",
         "dock": "bottom",
     },
     "lsp": {
@@ -25,6 +26,9 @@
     },
     "agent_servers": {
         "cursor": {
+            "default_config_options": {
+                "model": "grok-4.6"
+            },
             "type": "registry",
         },
     },
@@ -41,29 +45,29 @@
         "flexible": true,
         "button": true,
         "play_sound_when_agent_done": "when_hidden",
-        "dock": "right",
+        "dock": "left",
         "favorite_models": [],
         "model_parameters": [],
     },
     "git_panel": {
-        "dock": "left",
+        "dock": "right",
     },
     "diff_view_style": "unified",
-    "ui_font_size": 14.0,
-    "buffer_font_size": 11.0,
+    "ui_font_size": 15.0,
+    "buffer_font_size": 12.0,
     "buffer_font_family": ".ZedMono",
     "icon_theme": {
-        "mode": "dark",
+        "mode": "light",
         "light": "Zed (Default)",
         "dark": "Zed (Default)",
     },
     "theme": {
-        "mode": "dark",
-        "light": "One Dark Pro",
-        "dark": "One Dark Pro",
+        "mode": "system",
+        "light": "One Dark",
+        "dark": "One Dark",
     },
     "project_panel": {
-        "dock": "left",
+        "dock": "right",
         "indent_size": 12,
     },
 }
