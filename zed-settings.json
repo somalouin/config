@@ -1,4 +1,6 @@
 {
+    "buffer_font_size": 13.0,
+    "buffer_line_height": "comfortable",
     "tab_size": 4,
     "global_lsp_settings": {
         "button": false,
@@ -41,20 +43,18 @@
         "dock": "left",
     },
     "agent": {
-        "sidebar_side": "right",
+        "sidebar_side": "left",
         "flexible": true,
         "button": true,
         "play_sound_when_agent_done": "when_hidden",
-        "dock": "left",
+        "dock": "right",
         "favorite_models": [],
         "model_parameters": [],
     },
     "git_panel": {
-        "dock": "right",
+        "dock": "left",
     },
     "diff_view_style": "unified",
-    "ui_font_size": 15.0,
-    "buffer_font_size": 12.0,
     "buffer_font_family": ".ZedMono",
     "icon_theme": {
         "mode": "light",
@@ -63,11 +63,11 @@
     },
     "theme": {
         "mode": "system",
-        "light": "One Dark",
+        "light": "One Light",
         "dark": "One Dark",
     },
     "project_panel": {
-        "dock": "right",
+        "dock": "left",
         "indent_size": 12,
     },
 }
