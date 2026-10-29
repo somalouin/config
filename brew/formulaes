@@ -1,6 +1,4 @@
 node
 postgresql
-gcc
 go
 fastfetch
-oh-my-posh
